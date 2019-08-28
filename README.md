@@ -1,4 +1,7 @@
 # html-stringify-brunch
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/dfrencham/html-stringify-brunch.svg)](https://greenkeeper.io/)
+
 Adds stringify pass-through support to brunch (really useful if you use AMD modules, and you want to load them via text.js).
 
 This means you can have your HTML templates pass through the Brunch pipeline - allowing them to be wrapped in AMD define statements, and combined into a single file.
